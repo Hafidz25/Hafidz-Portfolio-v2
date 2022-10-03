@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/hafidz-portfolio-v2/static/css/main.a7650d69.chunk.css",
-    "main.js": "/hafidz-portfolio-v2/static/js/main.da474c4b.chunk.js",
-    "main.js.map": "/hafidz-portfolio-v2/static/js/main.da474c4b.chunk.js.map",
+    "main.css": "/hafidz-portfolio-v2/static/css/main.feedbd62.chunk.css",
+    "main.js": "/hafidz-portfolio-v2/static/js/main.22bf9988.chunk.js",
+    "main.js.map": "/hafidz-portfolio-v2/static/js/main.22bf9988.chunk.js.map",
     "runtime-main.js": "/hafidz-portfolio-v2/static/js/runtime-main.b7afc8aa.js",
     "runtime-main.js.map": "/hafidz-portfolio-v2/static/js/runtime-main.b7afc8aa.js.map",
     "static/js/2.f5288c40.chunk.js": "/hafidz-portfolio-v2/static/js/2.f5288c40.chunk.js",
     "static/js/2.f5288c40.chunk.js.map": "/hafidz-portfolio-v2/static/js/2.f5288c40.chunk.js.map",
     "index.html": "/hafidz-portfolio-v2/index.html",
-    "static/css/main.a7650d69.chunk.css.map": "/hafidz-portfolio-v2/static/css/main.a7650d69.chunk.css.map",
+    "static/css/main.feedbd62.chunk.css.map": "/hafidz-portfolio-v2/static/css/main.feedbd62.chunk.css.map",
     "static/js/2.f5288c40.chunk.js.LICENSE.txt": "/hafidz-portfolio-v2/static/js/2.f5288c40.chunk.js.LICENSE.txt",
     "static/media/bslogo.268c4375.png": "/hafidz-portfolio-v2/static/media/bslogo.268c4375.png",
     "static/media/csslogo.463e319b.png": "/hafidz-portfolio-v2/static/media/csslogo.463e319b.png",
     "static/media/jslogo.3dfb665e.png": "/hafidz-portfolio-v2/static/media/jslogo.3dfb665e.png",
-    "static/media/reactlogo.4127b362.png": "/hafidz-portfolio-v2/static/media/reactlogo.4127b362.png"
+    "static/media/reactlogo.4127b362.png": "/hafidz-portfolio-v2/static/media/reactlogo.4127b362.png",
+    "static/media/twlogo.1ccb7f13.png": "/hafidz-portfolio-v2/static/media/twlogo.1ccb7f13.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b7afc8aa.js",
     "static/js/2.f5288c40.chunk.js",
-    "static/css/main.a7650d69.chunk.css",
-    "static/js/main.da474c4b.chunk.js"
+    "static/css/main.feedbd62.chunk.css",
+    "static/js/main.22bf9988.chunk.js"
   ]
 }
