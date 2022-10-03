@@ -17,9 +17,10 @@
   padding: 10px;
   justify-content: center;
   align-items: center;
+  text-align: center;
 }
 
 .img-skill{
-  align-items: center;
+  vertical-align: middle;
   width: 50px;
 }
